@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 hi
-=======
 y git y
->>>>>>> fce6c95c6ec163b5ee8a45620c37ae3da004e98f
+
+bye-hi
+
